@@ -14,4 +14,10 @@ The variables in our cleaned files are disaster numbers, each month from 2000 to
 
 ## 2. Description of Scripts
 
-Scripts folder contains our main deliverables - python program.
+Scripts folder contains our main deliverables - python program. We strongly recommend you just run our main modelling and visualization notebook, which exclude stage 0. We use stage 0 notebook to transform massive unstructured data into the one we can use. It is quite time consuming. Their results are stored, and can be directly read in later stage.
+
+The ordering of the jupyter notebooks:
+stage 0 two notebooks;
+1-Predict Heat Waves
+2-MDA_visualization
+3-Impact of Heat Waves
