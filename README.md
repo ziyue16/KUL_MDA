@@ -1,7 +1,7 @@
 # KUL_MDA
 Modern Data Analytics Project (2021 spring)
 
-This repositary contains four folders (scripts, data, outputs), one requirement.text, and one Readme file.
+This repositary contains scripts, data, and outputs folders, one requirement.text, and one Readme file.
 To keep consistency, please load requirement.txt in your environment before running our python programs.
 
 ## 1. Description of Data
