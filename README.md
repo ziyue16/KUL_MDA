@@ -16,8 +16,8 @@ To keep consistency, please load requirement.txt in your environment before runn
 Scripts folder contains our main deliverables - python programs. We strongly recommend you just run our main modelling and visualization notebooks, which exclude collecting weather data. We use "collect-" notebooks to transform massive unstructured data into the one we can use. It is quite time consuming. Their results are stored, and can be directly read in later stage.
 
 The ordering of the jupyter notebooks:
-Collect Data - Weather
-Collect Data - Relative Humidity
-1-Predict Heat Waves
-2-MDA_visualization
-3-Impact of Heat Waves
+1. Collect Data - Weather
+2. Collect Data - Relative Humidity
+3. 1-Predict Heat Waves
+4. 2-MDA_visualization
+5. 3-Impact of Heat Waves
