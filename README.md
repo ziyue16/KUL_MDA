@@ -8,7 +8,7 @@ To keep consistency, please load requirement.txt in your environment before runn
 
 1. Heat Wave spread sheet is scraped from EMDAT (https://public.emdat.be). 
 2. Relative humidity data is retrieved from European Climate Data Store (https://cds.climate.copernicus.eu/cdsapp\#!/dataset/ecv-for-climate-change?tab=form). 
-3. Temperature data is retrieved from the Meteostat website.
+3. Temperature data is retrieved from the Meteostat website (https://github.com/meteostat/meteostat-python).
 4. Relative GDP data is retrieved from The Organisation for Economic Co-operation and Development.
 
 ## 2. Description of Scripts
